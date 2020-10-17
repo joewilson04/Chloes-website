@@ -1,0 +1,45 @@
+html {
+    background-color: #619EF3;
+}
+
+html, body{
+    margin: 0px;
+    padding: 0px;
+    min-height: 100%;
+    height: 100%;
+    
+  }
+  
+.body {
+    background-color: #bfd6f1;
+    padding-left: 1rem;
+    padding-right: 1rem;
+}
+
+.header {
+    color: blue;
+}
+
+.imag {
+    float: left;
+    width:  350px;
+    height: 350px;
+    object-fit: cover;
+}
+
+.imgcontainer {
+    display: grid;
+    padding: 50px;
+
+}
+
+footer {
+    position: relative;
+    bottom: 0;
+    text-align: center;
+    float: left;
+    background-color: #3287ff;
+    color: white;
+    width: 100%;
+    padding-right: 1rem;
+  }
